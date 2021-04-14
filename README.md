@@ -23,4 +23,4 @@ Focused in Java | Springboot | Application Development Specialist
 
 <!---[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lourivalnt&show_icons=true)--->
 
-[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lourivalnt&theme=blue-green)](https://github.com/lourivalnt/github-readme-stats)
+<!---[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lourivalnt&theme=blue-green)](https://github.com/lourivalnt/github-readme-stats)--->
