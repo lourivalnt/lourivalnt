@@ -4,7 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lourival-linard-b28699191/)](https://www.linkedin.com/in/lourival-linard-b28699191/)
 
 
-I'm a {backend} application aevelopment specialist.
+I'm a {backend} application development specialist.
 
 Focused in Java | Springboot
 
