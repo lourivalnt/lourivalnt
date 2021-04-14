@@ -4,15 +4,15 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lourival-linard-b28699191/)](https://www.linkedin.com/in/lourival-linard-b28699191/)
 
 
-I'm a {backend} developer.
+I'm a {backend} application aevelopment specialist.
 
-Focused in Java | Springboot | Application Development Specialist 
+Focused in Java | Springboot
 
-<img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?&style=for-the-badge&logo=intellij-idea&logoColor=white"/>
-<img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
 <!--- [![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=lourivalnt&row=1)](https://github.com/ryo-ma/github-profile-trophy)--->
 
 **Languages and Tools:**  
+<img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?&style=for-the-badge&logo=intellij-idea&logoColor=white"/>
+<img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
