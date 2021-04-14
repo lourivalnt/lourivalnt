@@ -11,7 +11,7 @@ Focused in Java | Springboot
 <!--- [![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=lourivalnt&row=1)](https://github.com/ryo-ma/github-profile-trophy)--->
 
 **Languages and Tools:**  
-<img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
+<img alt="Java" src="https://img.shields.io/badge/java-%3E%3D8-orange"/>
 <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?&style=for-the-badge&logo=intellij-idea&logoColor=white"/>
 <img alt="Spring" src="https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white"/>
 
